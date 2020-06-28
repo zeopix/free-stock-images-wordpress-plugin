@@ -1,0 +1,27 @@
+{
+  "name": "free-stock-images-ig-guten-block",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "jest",
+    "start": "cgb-scripts start",
+    "build": "cgb-scripts build",
+    "eject": "cgb-scripts eject"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.10.2",
+    "@material-ui/icons": "^4.9.1",
+    "cgb-scripts": "1.23.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "rxjs": "^6.5.5"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.10.1",
+    "@babel/preset-env": "^7.10.3",
+    "@babel/preset-react": "^7.10.1",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0",
+    "react-test-renderer": "^16.13.1"
+  }
+}

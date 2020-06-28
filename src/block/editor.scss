@@ -1,0 +1,38 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+
+.wp-block-ig-block-free-stock-images  {
+  border: 0.2rem solid transparent;
+  color: $black;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 2rem;
+  .image {
+      width: 90%;
+      padding: 5%;
+      border: 3px solid transparent;
+      &.selected {
+          border: 3px solid #CCC;
+      }
+  }
+  .searchInput {
+      padding-left: 10px;
+      width: 100%;
+      input {
+          font-size: 20px;
+      }
+
+  }
+  .searchProviders {
+     text-align: center;
+  }
+
+  .searchResults {
+      max-height: 500px;
+      overflow: scroll;
+  }
+}
