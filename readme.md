@@ -1,7 +1,7 @@
 
 ### Free Stock Image wordpress gutenberg plugin
 
-![] https://s3.eu-west-3.amazonaws.com/static-ivanguillen.me/demo-free-stock-images-wordpress-plugin.gif
+![Demo](https://s3.eu-west-3.amazonaws.com/static-ivanguillen.me/demo-free-stock-images-wordpress-plugin.gif)
 
 
 
